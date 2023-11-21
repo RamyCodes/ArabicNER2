@@ -33323,7 +33323,7 @@ motion I-MISC
 لحسن O
 النوايا O
 لصندوق B-ORG
-الأمم O-ORG
+الأمم I-ORG
 المتحدة I-ORG
 لرعاية I-ORG
 الطفولة I-ORG
@@ -82720,7 +82720,7 @@ UNHRC O
 مدريد I-ORG
 الاسباني O
 . O
-ARTILCE
+
 باكو B-LOC
 ، O
 اسلام B-LOC
@@ -105022,7 +105022,7 @@ BBC B-ORG
 التعامل O
 مع O
 الآخرين O
-ألونسو B-PERS ARTICE
+ألونسو B-PERS
 يتهم O
 شوماخر B-PERS
 بافتقاد O
@@ -108876,7 +108876,7 @@ BBC B-ORG
 حسب O
 رأيه O
 . O
-ARTILCE
+
 لوحة B-MISC
 الموناليزا I-MISC
 ( O
